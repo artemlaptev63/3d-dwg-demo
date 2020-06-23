@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+}
+
+.wrapper {
+  display: flex;
+  height: 100vh;
+}
+
+#selectedId {
+  width: 50% !important;
+  height: 100vh !important;
+  font-size: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+.adsk-viewing-viewer {
+  height: 100vh !important;
+  width: 50% !important;
+}
